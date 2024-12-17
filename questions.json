@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does David witness that gives him hope Steelheart can be defeated?",
+        "options": [
+            "Steelheart fleeing a battle",
+            "Steelheart bleeding from a gunshot",
+            "A rival Epic injuring Steelheart",
+            "Steelheart transforming buildings to steel"
+        ],
+        "correctIndex": 1,
+        "explanation": "David sees Steelheart bleed from a bullet during the bank incident when his father fired at Deathpoint. This gives David hope that Steelheart has a weakness and can be defeated."
+    },
+    {
+        "question": "What event is known as the \u201cAnnexation\u201d?",
+        "options": [
+            "Steelheart\u2019s ascension to power",
+            "The creation of Newcago",
+            "Steelheart\u2019s first transformation of the city into steel",
+            "The arrival of the Reckoners"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Annexation refers to the day Steelheart killed David\u2019s father, claimed dominance, and began his reign of terror over Newcago."
+    },
+    {
+        "question": "Who is Nightwielder, and what is his power?",
+        "options": [
+            "A rival Epic of Steelheart who controls fire",
+            "A member of Steelheart\u2019s inner circle who controls darkness",
+            "A Reckoner member who fights Steelheart",
+            "An Epic who manipulates steel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nightwielder is a key ally of Steelheart. His ability to control darkness keeps Newcago in eternal night, making him an essential part of Steelheart\u2019s rule."
+    },
+    {
+        "question": "Why does David keep detailed notebooks about the Epics?",
+        "options": [
+            "He is working with the Reckoners",
+            "He is obsessed with avenging his father\u2019s death",
+            "He wants to join Steelheart\u2019s inner circle",
+            "He hopes to find a weakness in Epics for fame"
+        ],
+        "correctIndex": 1,
+        "explanation": "David\u2019s detailed notebooks reflect his obsession with defeating Steelheart to avenge his father\u2019s murder. He focuses on understanding Epic weaknesses."
+    },
+    {
+        "question": "How does Steelheart react to survivors from the bank incident?",
+        "options": [
+            "He lets them live to spread fear",
+            "He has Faultline bury the survivors and rescue workers",
+            "He imprisons them to keep his secret safe",
+            "He transforms them into steel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Steelheart orders Faultline to bury the bank\u2019s survivors, rescue workers, and even corpses under layers of earth to eliminate witnesses of his weakness."
+    },
+    {
+        "question": "What marks Steelheart\u2019s reign over Newcago?",
+        "options": [
+            "His transformation of the city into steel",
+            "His alliance with other Epics",
+            "His refusal to tolerate rebellion",
+            "His control of Lake Michigan"
+        ],
+        "correctIndex": 0,
+        "explanation": "Steelheart\u2019s power allows him to transform inanimate objects into steel, including much of Newcago and part of Lake Michigan."
+    },
+    {
+        "question": "Why does David admire the Reckoners?",
+        "options": [
+            "They are Epics who use their powers for good",
+            "They are a group who hunt and kill Epics",
+            "They are part of Steelheart\u2019s opposition",
+            "They saved David from Steelheart\u2019s forces"
+        ],
+        "correctIndex": 1,
+        "explanation": "David admires the Reckoners because they are a secretive, rebel group committed to assassinating powerful and oppressive Epics like Steelheart."
+    },
+    {
+        "question": "Who is Deathpoint, and what is his power?",
+        "options": [
+            "A rival Epic of Steelheart who controls death",
+            "A Reckoner with a vendetta against Steelheart",
+            "An Epic who can kill with a touch",
+            "An ally of David who has stealth abilities"
+        ],
+        "correctIndex": 2,
+        "explanation": "Deathpoint is an Epic who can kill with a touch, turning his victims to ash. He is present at the bank incident where Steelheart first bleeds."
+    },
+    {
+        "question": "What happens to David\u2019s father during the bank incident?",
+        "options": [
+            "Steelheart kills him with his own gun",
+            "Deathpoint touches him",
+            "Nightwielder engulfs him in darkness",
+            "He escapes but is later hunted down"
+        ],
+        "correctIndex": 0,
+        "explanation": "Steelheart, enraged by his wound, kills David\u2019s father with his own gun, establishing his brutal and arrogant nature."
+    },
+    {
+        "question": "Why does David consider himself the only one who knows Steelheart\u2019s weakness?",
+        "options": [
+            "He saw the scar on Steelheart\u2019s cheek",
+            "He is the sole survivor of the bank incident",
+            "His father whispered Steelheart\u2019s weakness before dying",
+            "He has studied Steelheart\u2019s history thoroughly"
+        ],
+        "correctIndex": 1,
+        "explanation": "David is the only known survivor of the bank incident where Steelheart bled, making him uniquely aware that Steelheart has a weakness."
+    }
+]
